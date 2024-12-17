@@ -38,6 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [**Pharmacy Management System**](https://github.com/laurenGoodrich/pharmacyManagementSystem): Developed a frontend and backend that allows pharmacists add and manage prescriptions, medicines, and their patients.
 - [**Continental Breakfast Website**](https://github.com/laurenGoodrich/ContinentalBreakfast): Developed an informative website that explores the geography, culture, and ecology of the seven continents.
 - [**Brick Breaker Game**](https://github.com/laurenGoodrich/BrickBreaker): Classic arcade game where you aim to break all the bricks.
+- [**FPGA-Based Processor Design and Video Processing Algorithm**](https://github.com/laurenGoodrich/FiveStagePipelined-MIPS-ISA-DatapathDesign): Design and implementation of a full-scale pipelined data path for the MIPS 32-bit Instruction Set Architecture (ISA) on a Xilinx Artix-7 FPGA.
 
 
 ---
