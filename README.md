@@ -18,10 +18,15 @@
 
 ## :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver, Washington.
+
 - :telescope: I'm a **Software Engineering student** at the **University of Arizona** graduating in May 2025.
+
 - :seedling: I'm working as a software developer on an Integration team for the University Information Technology Services contributing to data integrations and developing automated processes.
+
 - :zap: My experience includes working with tools like **SQL, Java, Python**, and frameworks like **Boomi, React, and Salesforce Lightning**.
+  
 - 🧐 I'm currently learning Docker and Kubernetes to enhance my skills in containerization and orchestration for scalable software solutions.
+  
 - 💗 I love solving complex problems and building innovative solutions that deliver impactful results.
 
 ## 📫 Contact Me
