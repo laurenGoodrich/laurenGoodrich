@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - **LinkedIn:** [lauren-goodrich-ab4472264](https://www.linkedin.com)
 
 ## 🌟 Featured Projects:
-- [**ETL Pipeline**](https://github.com/yourusername/etl-pipeline): Built an ETL pipeline using Python and SQL to automate data processing and transformation.
+- [**Pharmacy Management System**]([https://github.com/yourusername/etl-pipeline](https://github.com/laurenGoodrich/pharmacyManagementSystem): Developed a frontend and backend that allows pharmacists add and manage prescriptions, medicines, and their patients.
 - [**Brick Breaker Game**](https://github.com/yourusername/brick-breaker): Developed a fun arcade game in Java using OOP principles.
 - [**Clean Hydrogen Monitoring System**](https://github.com/yourusername/clean-hydrogen): Built a monitoring system for hydrogen production using Arduino and C++.
 
