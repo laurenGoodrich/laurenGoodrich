@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 🌟 Featured Projects:
 - [**Pharmacy Management System**](https://github.com/laurenGoodrich/pharmacyManagementSystem): Developed a frontend and backend that allows pharmacists add and manage prescriptions, medicines, and their patients.
 - [**Continental Breakfast Website**](https://github.com/laurenGoodrich/ContinentalBreakfast): Developed an informative website that explores the geography, culture, and ecology of the seven continents.
-- [**Clean Hydrogen Monitoring System**](https://github.com/yourusername/clean-hydrogen): Built a monitoring system for hydrogen production using Arduino and C++.
+- [**Brick Breaker Game**](https://github.com/laurenGoodrich/BrickBreaker): Classic arcade game where you aim to break all the bricks.
 
 
 ---
